@@ -1,0 +1,13 @@
+node_modules/
+out/
+cache/
+*.env
+.env.local
+.env.*.local
+.vercel
+!/.env.example
+broadcast/
+!.gitkeep
+client/node_modules/
+client/dist/
+client/.env
